@@ -2,4 +2,6 @@ capture.jpg
 temp_command.wav
 titan_voice.mp3
 __pycache__/
+.streamlit/
+*.pyc
 .env
